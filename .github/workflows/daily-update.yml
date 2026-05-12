@@ -1,0 +1,63 @@
+name: 每日AI资讯更新
+
+# 触发条件
+on:
+  # 每天自动运行（北京时间早上8点 = UTC 0点）
+  schedule:
+    - cron: '0 0 * * *'
+
+  # 允许手动触发
+  workflow_dispatch:
+
+  # Push时也运行（用于测试）
+  push:
+    branches: [ main, master ]
+
+# 权限设置
+permissions:
+  contents: write
+
+jobs:
+  update-daily:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 检出代码
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 获取完整历史，用于后续push
+
+      # 2. 设置Python环境
+      - name: 设置Python环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # 3. 安装依赖
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # 4. 运行爬虫脚本
+      - name: 运行爬虫
+        run: python scripts/crawler.py
+        env:
+          PYTHONIOENCODING: utf-8
+
+      # 5. 提交并推送更新
+      - name: 提交更新
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/ docs/data/
+          git diff --staged --quiet || git commit -m "自动更新: $(date +'%Y-%m-%d') 每日AI资讯"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 6. 显示完成情况
+      - name: 完成
+        run: echo "每日AI资讯已更新！"
