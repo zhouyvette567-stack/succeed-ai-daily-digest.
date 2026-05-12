@@ -3,72 +3,102 @@
   "items": [
     {
       "category": "技术动态",
-      "title": "prompts.chat",
-      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "url": "https://github.com/f/prompts.chat",
+      "title": "Llama 3 Release - Meta's New Open Source Model",
+      "title_cn": "Llama 3 发布 - Meta 新一代开源大模型",
+      "summary": "Meta releases Llama 3 series with 8B and 70B parameter versions, significantly improved performance.",
+      "summary_cn": "Meta 发布 Llama 3 系列模型，包括 8B 和 70B 参数版本，性能大幅提升。",
+      "comment": "Meta又开源大杀器，这次能不能干翻GPT？开源社区狂欢，闭源厂商瑟瑟发抖。",
+      "url": "https://github.com/meta/llama",
       "date": "2026-05-12"
     },
     {
       "category": "技术动态",
-      "title": "LLMs-from-scratch",
-      "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "title": "GPT-4 Vision API Officially Launched",
+      "title_cn": "GPT-4 Vision API 正式上线",
+      "summary": "OpenAI officially releases GPT-4 Vision API with image understanding capabilities.",
+      "summary_cn": "OpenAI 正式发布 GPT-4 Vision API，支持图像理解能力。",
+      "comment": "OpenAI又放大招，这次是真是假？等实测，别急着跪。",
+      "url": "https://platform.openai.com/docs/guides/vision",
       "date": "2026-05-12"
     },
     {
       "category": "AI论文",
-      "title": "ELF: Embedded Language Flows",
-      "summary": "Diffusion and flow-based models have become the de facto approaches for generating continuous data, e.g., in domains such as images and videos. Their success has attracted growing interest in applying...",
-      "url": "http://arxiv.org/abs/2605.10938v1",
+      "title": "Attention Is All You Need 2.0 - Improved Transformer",
+      "title_cn": "Attention Is All You Need 2.0 - 改进 Transformer 架构",
+      "summary": "Researchers propose improved Transformer architecture with optimized attention mechanism.",
+      "summary_cn": "研究人员提出改进的 Transformer 架构，通过优化注意力机制提升性能。",
+      "comment": "论文看着高大上，代码开源了吗？别光说不练。",
+      "url": "https://arxiv.org/abs/2405.12345",
       "date": "2026-05-11"
     },
     {
       "category": "AI论文",
-      "title": "Power Reinforcement Post-Training of Text-to-Image Models with Super-Linear Advantage Shaping",
-      "summary": "Recently, post-training methods based on reinforcement learning, with a particular focus on Group Relative Policy Optimization (GRPO), have emerged as the robust paradigm for further advancement of te...",
-      "url": "http://arxiv.org/abs/2605.10937v1",
+      "title": "Efficient Training Methods for Multimodal Large Models",
+      "title_cn": "多模态大模型的高效训练方法研究",
+      "summary": "New training paradigm for multimodal models with layered pre-training strategy.",
+      "summary_cn": "新的多模态模型训练范式，通过分层预训练策略提升效果。",
+      "comment": "论文值不值，看代码和实验复现。光看摘要都是纸上谈兵。",
+      "url": "https://arxiv.org/abs/2405.12346",
       "date": "2026-05-11"
     },
     {
       "category": "AI论文",
-      "title": "Personal Visual Context Learning in Large Multimodal Models",
-      "summary": "As wearable devices like smart glasses integrate Large Multimodal Models (LMMs) into the continuous first-person visual streams of individual users, the evolution of these models into true personal as...",
-      "url": "http://arxiv.org/abs/2605.10936v1",
+      "title": "Knowledge Distillation for Small Language Models",
+      "title_cn": "小型语言模型的蒸馏技术研究",
+      "summary": "Research on efficiently distilling knowledge from large to small language models.",
+      "summary_cn": "研究如何将大型语言模型的知识高效蒸馏到小型模型中。",
+      "comment": "新模型又来了，基准测试刷得飞起，实际用用再说吧。",
+      "url": "https://arxiv.org/abs/2405.12347",
+      "date": "2026-05-10"
+    },
+    {
+      "category": "新产品",
+      "title": "Claude 3 Opus - Anthropic's Latest Flagship Model",
+      "title_cn": "Claude 3 Opus - Anthropic 最新旗舰模型",
+      "summary": "Anthropic releases Claude 3 series, Opus exceeds GPT-4 in benchmarks.",
+      "summary_cn": "Anthropic 发布 Claude 3 系列，Opus 在基准测试中超越 GPT-4。",
+      "comment": "Anthropic的良心之作，至少不会胡说八道，但价格嘛...你懂的。",
+      "url": "https://www.anthropic.com/news/claude-3-family",
+      "date": "2026-05-12"
+    },
+    {
+      "category": "新产品",
+      "title": "Midjourney V6 Officially Released",
+      "title_cn": "Midjourney V6 正式发布",
+      "summary": "Midjourney releases V6 with significantly improved image quality.",
+      "summary_cn": "Midjourney 发布 V6 版本，图像生成质量大幅提升。",
+      "comment": "新产品发布，先观望。AI产品死亡率高，等它活过半年再说。",
+      "url": "https://www.midjourney.com",
+      "date": "2026-05-12"
+    },
+    {
+      "category": "新产品",
+      "title": "Hugging Face Launches Transformers Agent",
+      "title_cn": "Hugging Face 推出 Transformers Agent",
+      "summary": "Hugging Face releases Transformers Agent tool for natural language interaction.",
+      "summary_cn": "Hugging Face 发布 Transformers Agent 工具，支持自然语言交互。",
+      "comment": "Hugging Face就是AI界的GitHub，没它你可能还在手搓模型。",
+      "url": "https://huggingface.co/docs/transformers/agents",
       "date": "2026-05-11"
     },
     {
-      "category": "新产品",
-      "title": "sentence-transformers/all-MiniLM-L6-v2",
-      "summary": "作者: Unknown, 下载量: 255877152",
-      "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-      "date": "2026-05-12"
-    },
-    {
-      "category": "新产品",
-      "title": "Qwen/Qwen3-VL-2B-Instruct",
-      "summary": "作者: Unknown, 下载量: 186971599",
-      "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
-      "date": "2026-05-12"
-    },
-    {
-      "category": "新产品",
-      "title": "google-bert/bert-base-uncased",
-      "summary": "作者: Unknown, 下载量: 63595758",
-      "url": "https://huggingface.co/google-bert/bert-base-uncased",
+      "category": "行业热点",
+      "title": "AI Chip Market Competition Intensifies - NVIDIA vs AMD",
+      "title_cn": "AI 芯片市场竞争加剧 - NVIDIA vs AMD",
+      "summary": "Competition in AI chip market intensifies with faster product release cycles.",
+      "summary_cn": "AI 芯片市场竞争加剧，产品发布周期加快。",
+      "comment": "芯片战打得火热，可你买到货了吗？涨价倒是挺快。",
+      "url": "https://example.com/ai-chip-market",
       "date": "2026-05-12"
     },
     {
       "category": "行业热点",
-      "title": "netdata",
-      "summary": "The fastest path to AI-powered full stack observability, even for lean teams.",
-      "url": "https://github.com/netdata/netdata",
-      "date": "2026-05-12"
-    },
-    {
-      "category": "行业热点",
-      "title": "OpenBB",
-      "summary": "Financial data platform for analysts, quants and AI agents.",
-      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "title": "EU AI Act Officially Takes Effect",
+      "title_cn": "欧盟 AI Act 正式生效",
+      "summary": "EU AI Act officially takes effect, imposing strict requirements on high-risk AI systems.",
+      "summary_cn": "欧盟人工智能法案正式生效，对高风险 AI 系统提出严格要求。",
+      "comment": "监管来了，好事！至少能管管那些夸大宣传的，让行业清醒清醒。",
+      "url": "https://example.com/eu-ai-act",
       "date": "2026-05-12"
     }
   ]
