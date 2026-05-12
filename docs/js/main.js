@@ -58,12 +58,16 @@ async function loadHomePage() {
     }
 }
 
-// 创建新闻卡片
+// 创建新闻卡片（更新版 - 支持中文和锐评）
 function createNewsCard(item, index) {
     const card = document.createElement('div');
     card.className = 'news-card';
 
     const categoryClass = CATEGORY_COLORS[item.category] || 'tech';
+
+    // 使用中文标题（如果有），否则使用英文
+    const displayTitle = item.title_cn || item.title;
+    const displaySummary = item.summary_cn || item.summary;
 
     card.innerHTML = `
         <div class="news-card-header">
@@ -71,9 +75,18 @@ function createNewsCard(item, index) {
             <span class="news-index">#${index}</span>
         </div>
         <h3 class="news-card-title">
-            <a href="${item.url}" target="_blank" rel="noopener">${item.title}</a>
+            <a href="${item.url}" target="_blank" rel="noopener">${displayTitle}</a>
         </h3>
-        <p class="news-card-summary">${item.summary}</p>
+        ${item.title_cn && item.title ? `<p class="news-card-title-en" style="font-size:0.85rem;color:#999;margin-bottom:8px;">${item.title}</p>` : ''}
+        <div class="news-card-summary-cn">
+            ${displaySummary}
+        </div>
+        ${item.comment ? `
+        <div class="comment-section">
+            <div class="comment-label">犀利锐评</div>
+            <div class="comment-text">${item.comment}</div>
+        </div>
+        ` : ''}
         <div class="news-card-footer">
             <a href="${item.url}" class="news-card-link" target="_blank" rel="noopener">阅读原文 →</a>
             <span class="news-card-date">${item.date || ''}</span>

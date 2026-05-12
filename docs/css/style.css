@@ -186,7 +186,7 @@ main {
     font-size: 1.1rem;
     font-weight: 600;
     color: var(--text-primary);
-    margin-bottom: var(--spacing-sm);
+    margin-bottom: var(--spacing-xs);
     line-height: 1.4;
 }
 
@@ -199,11 +199,69 @@ main {
     color: var(--primary-color);
 }
 
+.news-card-title-cn {
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--primary-color);
+    margin-bottom: var(--spacing-xs);
+    line-height: 1.4;
+}
+
+.news-card-title-en {
+    font-size: 0.85rem;
+    color: #999;
+    margin-bottom: var(--spacing-sm);
+    line-height: 1.4;
+    font-style: italic;
+}
+
 .news-card-summary {
     color: var(--text-secondary);
     font-size: 0.95rem;
     line-height: 1.6;
     margin-bottom: var(--spacing-sm);
+}
+
+.news-card-summary-cn {
+    color: var(--text-primary);
+    font-size: 0.9rem;
+    line-height: 1.6;
+    margin-bottom: var(--spacing-md);
+    padding: var(--spacing-sm);
+    background: rgba(52, 152, 219, 0.05);
+    border-left: 3px solid var(--tech-color);
+    border-radius: 4px;
+}
+
+/* 锐评样式 */
+.comment-section {
+    background: #fff8e1;
+    border-left: 3px solid #ff9800;
+    border-radius: 4px;
+    padding: var(--spacing-sm);
+    margin-bottom: var(--spacing-sm);
+}
+
+.comment-label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #f57c00;
+    margin-bottom: 4px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.comment-label::before {
+    content: "💬";
+    font-size: 0.9rem;
+}
+
+.comment-text {
+    font-size: 0.9rem;
+    color: #e65100;
+    line-height: 1.5;
+    font-style: italic;
 }
 
 .news-card-footer {
