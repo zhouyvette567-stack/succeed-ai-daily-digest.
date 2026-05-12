@@ -7,7 +7,7 @@
       "title_cn": "提示.聊天",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "summary_cn": "f.k.a. Awesome ChatGPT提示。分享、发现和收集社区提示。免费开源--为您的组织提供完全隐私的自助出租服务。",
-      "comment": "Meta/Llama系又放大招，社区狂欢，不过实际部署成本您考虑过吗？",
+      "comment": "开源大模型又添新成员，prompts.chat这次能否撼动闭源模型的地位？",
       "url": "https://github.com/f/prompts.chat",
       "date": "2026-05-12"
     },
@@ -37,7 +37,7 @@
       "title_cn": "通过神经倾斜对Lévy过程驱动的SDE进行变分推断",
       "summary": "Modelling extreme events and heavy-tailed phenomena is central to building reliable predictive systems in domains such as finance, climate science, and safety-critical AI. While Lévy processes provide a natural mathematical framework for capturing jumps and heavy tails, Bayesian inference for Lévy-d...",
       "summary_cn": "模拟极端事件和重尾现象对于在金融、气候科学和安全关键型人工智能等领域建立可靠的预测系统至关重要。虽然Lévy过程为捕获跳跃和重尾提供了自然的数学框架，但Lévy-d的贝叶斯推断...",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
       "url": "http://arxiv.org/abs/2605.10934v1",
       "date": "2026-05-12"
     },
@@ -47,7 +47,7 @@
       "title_cn": "用于增强孟加拉语复合字符识别的置信度引导扩散增强",
       "summary": "Recognition of handwritten Bangla compound characters remains a challenging problem due to complex character structures, large intra-class variation, and limited availability of high-quality annotated data. Existing Bangla handwritten character recognition systems often struggle to generalize across...",
       "summary_cn": "由于字符结构复杂、班级内差异大以及高质量注释数据的可用性有限，手写孟加拉语复合字符的识别仍然是一个具有挑战性的问题。现有的孟加拉文手写字符识别系统通常难以泛化...",
-      "comment": "GitHub上的新玩具，先fork再说，说不定哪天就成神器了。",
+      "comment": "开源是好事，能不能用起来、改起来，才是衡量价值的标准。",
       "url": "http://arxiv.org/abs/2605.10916v1",
       "date": "2026-05-12"
     },
@@ -67,7 +67,7 @@
       "title_cn": "GPT-4o Mini - OpenAI的成本效益模型",
       "summary": "OpenAI launches GPT-4o Mini, offering high performance at lower cost.",
       "summary_cn": "OpenAI推出GPT-4o Mini ，以更低的成本提供高性能。",
-      "comment": "商业模型再升级，功能看着牛，钱包要捂紧，按量付费伤不起。",
+      "comment": "新模型发布，效果先观望，价格先准备好——按token计费的玩法，用得起吗？",
       "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
       "date": "2026-05-12"
     },
@@ -87,7 +87,7 @@
       "title_cn": "人工智能法规更新-欧盟人工智能法案实施",
       "summary": "European Union implements AI Act, setting global standard for AI regulation.",
       "summary_cn": "欧盟实施《人工智能法案》，为人工智能监管设定全球标准。",
-      "comment": "AI领域新动态，保持关注，别被营销号带节奏。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
       "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
       "date": "2026-05-12"
     },
@@ -97,7 +97,7 @@
       "title_cn": "人工智能芯片市场竞争加剧",
       "summary": "NVIDIA, AMD, and Intel compete fiercely in AI chip market with new product launches.",
       "summary_cn": "英伟达、AMD和英特尔推出新产品，在人工智能芯片市场展开激烈竞争。",
-      "comment": "AI领域新动态，保持关注，别被营销号带节奏。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
       "url": "https://example.com/ai-chip-market-2026",
       "date": "2026-05-12"
     }
