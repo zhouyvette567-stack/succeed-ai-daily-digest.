@@ -4,70 +4,100 @@
     {
       "category": "技术动态",
       "title": "prompts.chat",
+      "title_cn": "提示.聊天",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary_cn": "f.k.a. Awesome ChatGPT提示。分享、发现和收集社区提示。免费开源--为您的组织提供完全隐私的自助出租服务。",
+      "comment": "OpenAI又放大招，这次是真是假？等实测，别急着跪。",
       "url": "https://github.com/f/prompts.chat",
       "date": "2026-05-12"
     },
     {
       "category": "技术动态",
       "title": "LLMs-from-scratch",
+      "title_cn": "LLM从头开始",
       "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "summary_cn": "在PyTorch中从头开始逐步实现类似ChatGPT的LLM",
+      "comment": "OpenAI又放大招，这次是真是假？等实测，别急着跪。",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "date": "2026-05-12"
     },
     {
       "category": "AI论文",
       "title": "ELF: Embedded Language Flows",
-      "summary": "Diffusion and flow-based models have become the de facto approaches for generating continuous data, e.g., in domains such as images and videos. Their success has attracted growing interest in applying...",
+      "title_cn": "ELF ：嵌入式语言流",
+      "summary": "Diffusion and flow-based models have become the de facto approaches for generating continuous data, e.g., in domains such as images and videos. Their success has attracted growing interest in applying them to language modeling. Unlike their image-domain counterparts, today's leading diffusion langua...",
+      "summary_cn": "扩散和基于流的模型已成为生成连续数据的事实方法，例如在图像和视频等领域。他们的成功吸引了越来越多的人将其应用于语言建模。与他们的图像域同行不同，当今领先的扩散语言...",
+      "comment": "新模型又来了，基准测试刷得飞起，实际用用再说吧。",
       "url": "http://arxiv.org/abs/2605.10938v1",
       "date": "2026-05-11"
     },
     {
       "category": "AI论文",
       "title": "Power Reinforcement Post-Training of Text-to-Image Models with Super-Linear Advantage Shaping",
-      "summary": "Recently, post-training methods based on reinforcement learning, with a particular focus on Group Relative Policy Optimization (GRPO), have emerged as the robust paradigm for further advancement of te...",
+      "title_cn": "具有超线性优势整形的文本图像模型的功率强化后训练",
+      "summary": "Recently, post-training methods based on reinforcement learning, with a particular focus on Group Relative Policy Optimization (GRPO), have emerged as the robust paradigm for further advancement of text-to-image (T2I) models. However, these methods are often prone to reward hacking, wherein models e...",
+      "summary_cn": "最近，基于强化学习的训练后方法（特别关注组相对策略优化（ GRPO ） ）已成为进一步推进文本到图像（ T2I ）模型的强大范例。然而，这些方法往往容易奖励黑客，其中模型...",
+      "comment": "新模型又来了，基准测试刷得飞起，实际用用再说吧。",
       "url": "http://arxiv.org/abs/2605.10937v1",
       "date": "2026-05-11"
     },
     {
       "category": "AI论文",
       "title": "Personal Visual Context Learning in Large Multimodal Models",
-      "summary": "As wearable devices like smart glasses integrate Large Multimodal Models (LMMs) into the continuous first-person visual streams of individual users, the evolution of these models into true personal as...",
+      "title_cn": "大型多模式模型中的个人视觉语境学习",
+      "summary": "As wearable devices like smart glasses integrate Large Multimodal Models (LMMs) into the continuous first-person visual streams of individual users, the evolution of these models into true personal assistants hinges on visual personalization: the ability to reason over visual information unique to t...",
+      "summary_cn": "随着智能眼镜等可穿戴设备将大型多模态模型（ LMM ）集成到个人用户的连续第一人称视觉流中，这些模型向真正的个人助理的演变取决于视觉个性化：推理视觉信息的能力...",
+      "comment": "新模型又来了，基准测试刷得飞起，实际用用再说吧。",
       "url": "http://arxiv.org/abs/2605.10936v1",
       "date": "2026-05-11"
     },
     {
       "category": "新产品",
       "title": "sentence-transformers/all-MiniLM-L6-v2",
+      "title_cn": "句子变换器/all-MiniLM-L6-v2",
       "summary": "作者: Unknown, 下载量: 255877152",
+      "summary_cn": "作者:未知,下载量: 255877152",
+      "comment": "热点蹭得飞起，实际价值几何？让子弹飞一会儿。",
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "date": "2026-05-12"
     },
     {
       "category": "新产品",
       "title": "Qwen/Qwen3-VL-2B-Instruct",
+      "title_cn": "Qwen/Qwen3-VL-2B-指令",
       "summary": "作者: Unknown, 下载量: 186971599",
+      "summary_cn": "作者:未知,下载量: 186971599",
+      "comment": "热点蹭得飞起，实际价值几何？让子弹飞一会儿。",
       "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
       "date": "2026-05-12"
     },
     {
       "category": "新产品",
       "title": "google-bert/bert-base-uncased",
+      "title_cn": "google-bert/bert-base-uncased",
       "summary": "作者: Unknown, 下载量: 63595758",
+      "summary_cn": "作者:未知,下载量: 63595758",
+      "comment": "热点蹭得飞起，实际价值几何？让子弹飞一会儿。",
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "date": "2026-05-12"
     },
     {
       "category": "行业热点",
       "title": "netdata",
+      "title_cn": "网络数据",
       "summary": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "summary_cn": "实现人工智能驱动的全栈可观察性的最快途径，即使对于精益团队也是如此。",
+      "comment": "热点蹭得飞起，实际价值几何？让子弹飞一会儿。",
       "url": "https://github.com/netdata/netdata",
       "date": "2026-05-12"
     },
     {
       "category": "行业热点",
       "title": "OpenBB",
+      "title_cn": "开放BB",
       "summary": "Financial data platform for analysts, quants and AI agents.",
+      "summary_cn": "面向分析师、量化分析师和人工智能代理商的金融数据平台。",
+      "comment": "AI Agent喊了这么久，有几个真正好用的？先解决幻觉问题吧。",
       "url": "https://github.com/OpenBB-finance/OpenBB",
       "date": "2026-05-12"
     }
