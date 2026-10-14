@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "items": [
     {
       "category": "技术动态",
@@ -7,9 +7,9 @@
       "title_cn": "prompts.chat",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "summary_cn": "f.k.a. Awesome ChatGPT提示。分享、发现和收集社区提示。免费开源--为您的组织提供完全隐私的自助出租服务。",
-      "comment": "开源大模型又添新成员，prompts.chat这次能否撼动闭源模型的地位？",
+      "comment": "开源阵营再下一城，但光看参数没用，能不能跑起来、好不好用才是关键。",
       "url": "https://github.com/f/prompts.chat",
-      "date": "2026-10-13"
+      "date": "2026-10-14"
     },
     {
       "category": "技术动态",
@@ -19,37 +19,7 @@
       "summary_cn": "在PyTorch中从头开始逐步实现类似ChatGPT的LLM",
       "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "date": "2026-10-13"
-    },
-    {
-      "category": "AI论文",
-      "title": "Can Language Models Play the Wikipedia Game?",
-      "title_cn": "语言模型可以玩维基百科游戏吗？",
-      "summary": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test language models on an analogous information retrieval task. I...",
-      "summary_cn": "语言模型越来越多地支持或自动从文档集合中检索信息，这些文档集合太大而无法编制索引。当需要专业的语言或科学知识时，这项任务很困难。我们使用维基百科游戏在类似的信息检索任务上测试语言模型。...",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "http://arxiv.org/abs/2610.13948v1",
-      "date": "2026-10-13"
-    },
-    {
-      "category": "AI论文",
-      "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
-      "title_cn": "捉迷藏：隐藏概念以寻求黑盒模型的解释",
-      "summary": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They requi...",
-      "summary_cn": "解释机器学习模型预测是一个核心挑战，特别是对于黑盒视觉模型。基于概念的归因方法使用人类可理解的概念来解释模型。现有的基于概念的方法只能解释分类和回归模型。它们需要...",
-      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
-      "url": "http://arxiv.org/abs/2610.13935v1",
-      "date": "2026-10-13"
-    },
-    {
-      "category": "AI论文",
-      "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
-      "title_cn": "重新审视表格深度回归：全球早期停止的目标和局限性",
-      "summary": "While deep learning models for tabular data have recently received significant research attention, the choice of objective functions for regression tasks remains an understudied degree of freedom. Several lines of research offer alternatives to the standard Mean Squared Error (MSE), but differences ...",
-      "summary_cn": "虽然表格数据的深度学习模型最近受到了重大的研究关注，但回归任务的目标函数的选择仍然是一个未得到充分研究的自由度。几条研究路线提供了标准均方误差（ MSE ）的替代方案，但存在差异...",
-      "comment": "开源大模型又添新成员，Revisiting这次能否撼动闭源模型的地位？",
-      "url": "http://arxiv.org/abs/2610.13909v1",
-      "date": "2026-10-13"
+      "date": "2026-10-14"
     },
     {
       "category": "新产品",
@@ -57,9 +27,9 @@
       "title_cn": "Claude 3.5十四行诗- Anthropic的最新型号",
       "summary": "Anthropic releases Claude 3.5 Sonnet with improved reasoning and coding capabilities.",
       "summary_cn": "Anthropic发布了具有改进的推理和编码功能的Claude 3.5 Sonnet。",
-      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
       "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
-      "date": "2026-10-13"
+      "date": "2026-10-14"
     },
     {
       "category": "新产品",
@@ -69,7 +39,7 @@
       "summary_cn": "OpenAI推出GPT-4o Mini ，以更低的成本提供高性能。",
       "comment": "又是一个'史上最强'，基准测试刷得飞起，实际应用场景待检验。",
       "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
-      "date": "2026-10-13"
+      "date": "2026-10-14"
     },
     {
       "category": "新产品",
@@ -77,9 +47,9 @@
       "title_cn": "Gemini 1.5 Flash -谷歌的快速模型",
       "summary": "Google releases Gemini 1.5 Flash for faster inference and lower cost.",
       "summary_cn": "谷歌发布了Gemini 1.5 Flash ，以实现更快的推理和更低的成本。",
-      "comment": "新模型发布，效果先观望，价格先准备好——按token计费的玩法，用得起吗？",
+      "comment": "商业模型再升级，功能看着牛，钱包要捂紧，按量付费伤不起。",
       "url": "https://deepmind.google/technologies/gemini/flash/",
-      "date": "2026-10-13"
+      "date": "2026-10-14"
     },
     {
       "category": "行业热点",
@@ -89,7 +59,7 @@
       "summary_cn": "欧盟实施《人工智能法案》，为人工智能监管设定全球标准。",
       "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
       "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "date": "2026-10-13"
+      "date": "2026-10-14"
     },
     {
       "category": "行业热点",
@@ -97,9 +67,9 @@
       "title_cn": "人工智能芯片市场竞争加剧",
       "summary": "NVIDIA, AMD, and Intel compete fiercely in AI chip market with new product launches.",
       "summary_cn": "英伟达、AMD和英特尔推出新产品，在人工智能芯片市场展开激烈竞争。",
-      "comment": "AI领域新动态，保持关注，别被营销号带节奏。",
+      "comment": "新趋势值得注意，但别盲目跟风，适合自己的才是最好的。",
       "url": "https://example.com/ai-chip-market-2026",
-      "date": "2026-10-13"
+      "date": "2026-10-14"
     }
   ]
 }
