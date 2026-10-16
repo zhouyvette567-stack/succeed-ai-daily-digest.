@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "items": [
     {
       "category": "技术动态",
@@ -9,7 +9,7 @@
       "summary_cn": "f.k.a. Awesome ChatGPT提示。分享、发现和收集社区提示。免费开源--为您的组织提供完全隐私的自助出租服务。",
       "comment": "开源大模型又添新成员，prompts.chat这次能否撼动闭源模型的地位？",
       "url": "https://github.com/f/prompts.chat",
-      "date": "2026-10-15"
+      "date": "2026-10-16"
     },
     {
       "category": "技术动态",
@@ -17,39 +17,39 @@
       "title_cn": "LLM从头开始",
       "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "summary_cn": "在PyTorch中从头开始逐步实现类似ChatGPT的LLM",
-      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "date": "2026-10-15"
+      "date": "2026-10-16"
     },
     {
       "category": "AI论文",
-      "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
-      "title_cn": "使用扩散技术建模和理解人形策略的神经权重",
-      "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has been given to direct...",
-      "summary_cn": "机器人学习的最新进展推动了人形控制的快速发展，在现实世界中实现了越来越敏捷的行为。然而，人形控制网络通常是通过传统的训练程序获得的，而相对较少关注直接...",
-      "comment": "新模型发布，效果先观望，价格先准备好——按token计费的玩法，用得起吗？",
-      "url": "http://arxiv.org/abs/2610.20606v1",
-      "date": "2026-10-15"
+      "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+      "title_cn": "LIBERO-PeRM ：个性化机器人操作基准测试",
+      "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from ...",
+      "summary_cn": "个性化对于通用机器人过渡到家庭环境并实现真正的实用性至关重要。虽然一般的机器人操作已被广泛研究，但个性化机器人操作（ PeRM ）缺乏将任务完成与...",
+      "comment": "性能提升显著，能耗和成本呢？多维度的权衡才是真实世界。",
+      "url": "http://arxiv.org/abs/2610.22372v1",
+      "date": "2026-10-16"
     },
     {
       "category": "AI论文",
-      "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
-      "title_cn": "基于稀疏人工引导的真实世界移动操作分层剩余策略学习",
-      "summary": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous modules. In this paper, we propose HiRe-MoMa (Hierarchical Residual Mobile Manip...",
-      "summary_cn": "移动操作（ MoMa ）是自主机器人系统的基石，但由于高维动作空间和异构模块之间的复杂耦合，真实世界的微调仍然是一项艰巨的挑战。在本文中，我们提出HiRe-MoMa （ Hierarchical Residual Mobile Manip...",
-      "comment": "研究值得关注，但离实际应用还有距离，别过度解读。",
-      "url": "http://arxiv.org/abs/2610.20607v1",
-      "date": "2026-10-15"
+      "title": "Discovering state-of-the-art quantum circuits with large language models",
+      "title_cn": "使用大型语言模型探索最先进的量子电路",
+      "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource costs are associated...",
+      "summary_cn": "目前正在实施大规模量子信息处理器方面做出重大努力，但实现有用的量子优势还需要开发高效的量子算法。虽然对于许多实际问题，主要的资源成本与...",
+      "comment": "又是一个'史上最强'，基准测试刷得飞起，实际应用场景待检验。",
+      "url": "http://arxiv.org/abs/2610.22367v1",
+      "date": "2026-10-16"
     },
     {
       "category": "AI论文",
-      "title": "Co-Evolving Acting and Forecasting for Language Agents",
-      "title_cn": "语言代理协同进化表演和预测",
-      "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate steps largely unused. Prior work exploits this supervision through value targets tha...",
-      "summary_cn": "培训语言代理受到长期推出的高成本的瓶颈，但标准的代理强化学习（ RL ）仅从终端标量奖励中学习，使得中间步骤的监督基本上没有使用。之前的工作通过价值目标利用这种监督...",
-      "comment": "商业化产品发布，先看看定价策略，再决定要不要入坑。",
-      "url": "http://arxiv.org/abs/2610.20597v1",
-      "date": "2026-10-15"
+      "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+      "title_cn": "T2-z ：机器人世界模型环境潜力的测试时间优化",
+      "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules. We introduce T2-Z ...",
+      "summary_cn": "预测世界对行动的反应需要的不仅仅是可以看到的：机器人必须考虑既不能直接观察到也不能明确指定的环境因素，从摩擦和质量等物理特性到人类定义的环境规则。我们介绍T2-Z...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2610.22364v1",
+      "date": "2026-10-16"
     },
     {
       "category": "新产品",
@@ -59,7 +59,7 @@
       "summary_cn": "Anthropic发布了具有改进的推理和编码功能的Claude 3.5 Sonnet。",
       "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
       "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
-      "date": "2026-10-15"
+      "date": "2026-10-16"
     },
     {
       "category": "新产品",
@@ -69,7 +69,7 @@
       "summary_cn": "OpenAI推出GPT-4o Mini ，以更低的成本提供高性能。",
       "comment": "商业模型再升级，功能看着牛，钱包要捂紧，按量付费伤不起。",
       "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
-      "date": "2026-10-15"
+      "date": "2026-10-16"
     },
     {
       "category": "新产品",
@@ -77,9 +77,9 @@
       "title_cn": "Gemini 1.5 Flash -谷歌的快速模型",
       "summary": "Google releases Gemini 1.5 Flash for faster inference and lower cost.",
       "summary_cn": "谷歌发布了Gemini 1.5 Flash ，以实现更快的推理和更低的成本。",
-      "comment": "又是一个'史上最强'，基准测试刷得飞起，实际应用场景待检验。",
+      "comment": "商业模型再升级，功能看着牛，钱包要捂紧，按量付费伤不起。",
       "url": "https://deepmind.google/technologies/gemini/flash/",
-      "date": "2026-10-15"
+      "date": "2026-10-16"
     },
     {
       "category": "行业热点",
@@ -87,9 +87,9 @@
       "title_cn": "人工智能法规更新-欧盟人工智能法案实施",
       "summary": "European Union implements AI Act, setting global standard for AI regulation.",
       "summary_cn": "欧盟实施《人工智能法案》，为人工智能监管设定全球标准。",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "comment": "新趋势值得注意，但别盲目跟风，适合自己的才是最好的。",
       "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "date": "2026-10-15"
+      "date": "2026-10-16"
     },
     {
       "category": "行业热点",
@@ -99,7 +99,7 @@
       "summary_cn": "英伟达、AMD和英特尔推出新产品，在人工智能芯片市场展开激烈竞争。",
       "comment": "新趋势值得注意，但别盲目跟风，适合自己的才是最好的。",
       "url": "https://example.com/ai-chip-market-2026",
-      "date": "2026-10-15"
+      "date": "2026-10-16"
     }
   ]
 }
