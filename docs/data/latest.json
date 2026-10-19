@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "items": [
     {
       "category": "技术动态",
@@ -7,9 +7,9 @@
       "title_cn": "提示.聊天",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "summary_cn": "f.k.a. Awesome ChatGPT提示。分享、发现和收集社区提示。免费开源--为您的组织提供完全隐私的自助出租服务。",
-      "comment": "开源阵营再下一城，但光看参数没用，能不能跑起来、好不好用才是关键。",
+      "comment": "开源大模型又添新成员，prompts.chat这次能否撼动闭源模型的地位？",
       "url": "https://github.com/f/prompts.chat",
-      "date": "2026-10-18"
+      "date": "2026-10-19"
     },
     {
       "category": "技术动态",
@@ -19,37 +19,37 @@
       "summary_cn": "在PyTorch中从头开始逐步实现类似ChatGPT的LLM",
       "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "date": "2026-10-18"
+      "date": "2026-10-19"
     },
     {
       "category": "AI论文",
-      "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
-      "title_cn": "LIBERO-PeRM ：个性化机器人操作基准测试",
-      "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from ...",
-      "summary_cn": "个性化对于通用机器人过渡到家庭环境并实现真正的实用性至关重要。虽然一般的机器人操作已被广泛研究，但个性化机器人操作（ PeRM ）缺乏将任务完成与...",
-      "comment": "基准测试成绩亮眼，但测试集和实际场景是两码事，别被数字忽悠。",
-      "url": "http://arxiv.org/abs/2610.22372v1",
-      "date": "2026-10-18"
+      "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+      "title_cn": "重新思考香草像素扩散变压器的设计空间",
+      "summary": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transformer can generate directly in pixel space by replacing the commonly used velocity ...",
+      "summary_cn": "像素空间扩散模型最近重新出现，成为潜在扩散的引人注目的替代方案，避免了有损的潜在瓶颈和单独训练的自动编码器。JiT表明，通过替换常用的速度，香草扩散变压器可以直接在像素空间中产生...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2610.23854v1",
+      "date": "2026-10-19"
     },
     {
       "category": "AI论文",
-      "title": "Discovering state-of-the-art quantum circuits with large language models",
-      "title_cn": "使用大型语言模型探索最先进的量子电路",
-      "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource costs are associated...",
-      "summary_cn": "目前正在实施大规模量子信息处理器方面做出重大努力，但实现有用的量子优势还需要开发高效的量子算法。虽然对于许多实际问题，主要的资源成本与...",
-      "comment": "又是一个'史上最强'，基准测试刷得飞起，实际应用场景待检验。",
-      "url": "http://arxiv.org/abs/2610.22367v1",
-      "date": "2026-10-18"
+      "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+      "title_cn": "行为耦合：从语言模型的形成到行为出现",
+      "summary": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code can cause broad misalignment on prompts unrelated to coding. We refer to a relatio...",
+      "summary_cn": "微调大型语言模型（ LLM ）可能会诱发超出明确目标的行为。例如，训练模型做出更热烈的反应可能会使其更加讽刺，而训练它编写不安全的代码可能会导致在与编码无关的提示上出现广泛的不一致。我们指的是一个相对...",
+      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2610.23847v1",
+      "date": "2026-10-19"
     },
     {
       "category": "AI论文",
-      "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
-      "title_cn": "T2-z ：机器人世界模型环境潜力的测试时间优化",
-      "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules. We introduce T2-Z ...",
-      "summary_cn": "预测世界对行动的反应需要的不仅仅是可以看到的：机器人必须考虑既不能直接观察到也不能明确指定的环境因素，从摩擦和质量等物理特性到人类定义的环境规则。我们介绍T2-Z...",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "http://arxiv.org/abs/2610.22364v1",
-      "date": "2026-10-18"
+      "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+      "title_cn": "科学发现中的人工智能驱动的可重复性和分析鲁棒性",
+      "summary": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case study grounded in the S...",
+      "summary_cn": "可重复和分析可靠的研究结果对于科学进步至关重要，但评估这些特性通常需要花费昂贵的人工精力。我们使用基于S的医学案例研究来调查LLM代理是否可以帮助自动繁殖和稳健性分析...",
+      "comment": "学术界的新尝试，能否转化为实用产品？时间会给出答案。",
+      "url": "http://arxiv.org/abs/2610.23845v1",
+      "date": "2026-10-19"
     },
     {
       "category": "新产品",
@@ -57,9 +57,9 @@
       "title_cn": "Claude 3.5十四行诗- Anthropic的最新型号",
       "summary": "Anthropic releases Claude 3.5 Sonnet with improved reasoning and coding capabilities.",
       "summary_cn": "Anthropic发布了具有改进的推理和编码功能的Claude 3.5 Sonnet。",
-      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
       "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
-      "date": "2026-10-18"
+      "date": "2026-10-19"
     },
     {
       "category": "新产品",
@@ -67,9 +67,9 @@
       "title_cn": "GPT-4o Mini - OpenAI的成本效益模型",
       "summary": "OpenAI launches GPT-4o Mini, offering high performance at lower cost.",
       "summary_cn": "OpenAI推出GPT-4o Mini ，以更低的成本提供高性能。",
-      "comment": "又是一个'史上最强'，基准测试刷得飞起，实际应用场景待检验。",
+      "comment": "商业模型再升级，功能看着牛，钱包要捂紧，按量付费伤不起。",
       "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
-      "date": "2026-10-18"
+      "date": "2026-10-19"
     },
     {
       "category": "新产品",
@@ -79,7 +79,7 @@
       "summary_cn": "谷歌发布了Gemini 1.5 Flash ，以实现更快的推理和更低的成本。",
       "comment": "新模型发布，效果先观望，价格先准备好——按token计费的玩法，用得起吗？",
       "url": "https://deepmind.google/technologies/gemini/flash/",
-      "date": "2026-10-18"
+      "date": "2026-10-19"
     },
     {
       "category": "行业热点",
@@ -87,9 +87,9 @@
       "title_cn": "人工智能法规更新-欧盟人工智能法案实施",
       "summary": "European Union implements AI Act, setting global standard for AI regulation.",
       "summary_cn": "欧盟实施《人工智能法案》，为人工智能监管设定全球标准。",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "comment": "AI领域新动态，保持关注，别被营销号带节奏。",
       "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "date": "2026-10-18"
+      "date": "2026-10-19"
     },
     {
       "category": "行业热点",
@@ -97,9 +97,9 @@
       "title_cn": "人工智能芯片市场竞争加剧",
       "summary": "NVIDIA, AMD, and Intel compete fiercely in AI chip market with new product launches.",
       "summary_cn": "英伟达、AMD和英特尔推出新产品，在人工智能芯片市场展开激烈竞争。",
-      "comment": "新趋势值得注意，但别盲目跟风，适合自己的才是最好的。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
       "url": "https://example.com/ai-chip-market-2026",
-      "date": "2026-10-18"
+      "date": "2026-10-19"
     }
   ]
 }
