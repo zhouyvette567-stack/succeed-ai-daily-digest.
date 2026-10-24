@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-24",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "prompts.chat",
+      "title_cn": "提示.聊天",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary_cn": "f.k.a. Awesome ChatGPT提示。分享、发现和收集社区提示。免费开源--为您的组织提供完全隐私的自助出租服务。",
+      "comment": "Meta/Llama系又放大招，社区狂欢，不过实际部署成本您考虑过吗？",
+      "url": "https://github.com/f/prompts.chat",
+      "date": "2026-10-24"
+    },
+    {
+      "category": "技术动态",
+      "title": "LLMs-from-scratch",
+      "title_cn": "LLM从头开始",
+      "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "summary_cn": "在PyTorch中从头开始逐步实现类似ChatGPT的LLM",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "date": "2026-10-24"
+    },
+    {
+      "category": "新产品",
+      "title": "Claude 3.5 Sonnet - Anthropic's Latest Model",
+      "title_cn": "Claude 3.5十四行诗- Anthropic的最新型号",
+      "summary": "Anthropic releases Claude 3.5 Sonnet with improved reasoning and coding capabilities.",
+      "summary_cn": "Anthropic发布了具有改进的推理和编码功能的Claude 3.5 Sonnet。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
+      "date": "2026-10-24"
+    },
+    {
+      "category": "新产品",
+      "title": "GPT-4o Mini - OpenAI's Cost-Effective Model",
+      "title_cn": "GPT-4o Mini - OpenAI的成本效益模型",
+      "summary": "OpenAI launches GPT-4o Mini, offering high performance at lower cost.",
+      "summary_cn": "OpenAI推出GPT-4o Mini ，以更低的成本提供高性能。",
+      "comment": "新模型发布，效果先观望，价格先准备好——按token计费的玩法，用得起吗？",
+      "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
+      "date": "2026-10-24"
+    },
+    {
+      "category": "新产品",
+      "title": "Gemini 1.5 Flash - Google's Fast Model",
+      "title_cn": "Gemini 1.5 Flash -谷歌的快速模型",
+      "summary": "Google releases Gemini 1.5 Flash for faster inference and lower cost.",
+      "summary_cn": "谷歌发布了Gemini 1.5 Flash ，以实现更快的推理和更低的成本。",
+      "comment": "又是一个'史上最强'，基准测试刷得飞起，实际应用场景待检验。",
+      "url": "https://deepmind.google/technologies/gemini/flash/",
+      "date": "2026-10-24"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI Regulation Updates - EU AI Act Implementation",
+      "title_cn": "人工智能法规更新-欧盟人工智能法案实施",
+      "summary": "European Union implements AI Act, setting global standard for AI regulation.",
+      "summary_cn": "欧盟实施《人工智能法案》，为人工智能监管设定全球标准。",
+      "comment": "AI领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "date": "2026-10-24"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI Chip Market Competition Intensifies",
+      "title_cn": "人工智能芯片市场竞争加剧",
+      "summary": "NVIDIA, AMD, and Intel compete fiercely in AI chip market with new product launches.",
+      "summary_cn": "英伟达、AMD和英特尔推出新产品，在人工智能芯片市场展开激烈竞争。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://example.com/ai-chip-market-2026",
+      "date": "2026-10-24"
+    }
+  ]
+}
