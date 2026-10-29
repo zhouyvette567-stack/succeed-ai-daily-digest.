@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "items": [
     {
       "category": "技术动态",
@@ -7,9 +7,9 @@
       "title_cn": "提示.聊天",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "summary_cn": "f.k.a. Awesome ChatGPT提示。分享、发现和收集社区提示。免费开源--为您的组织提供完全隐私的自助出租服务。",
-      "comment": "开源阵营再下一城，但光看参数没用，能不能跑起来、好不好用才是关键。",
+      "comment": "开源大模型又添新成员，prompts.chat这次能否撼动闭源模型的地位？",
       "url": "https://github.com/f/prompts.chat",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
     },
     {
       "category": "技术动态",
@@ -17,9 +17,9 @@
       "title_cn": "LLM从头开始",
       "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "summary_cn": "在PyTorch中从头开始逐步实现类似ChatGPT的LLM",
-      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
     },
     {
       "category": "AI论文",
@@ -27,9 +27,9 @@
       "title_cn": "Honeycomb-Surfels ：紧凑的六边形图元，实现高效的场景渲染和重建",
       "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spatial color field for ef...",
       "summary_cn": "新颖的视图合成和3D重建随着辐射场和飞溅而迅速发展，但它们的内存和计算需求限制了它们在资源受限环境中的使用。我们介绍了Hexels ：新颖的平面六边形表面元素，具有ef的一阶空间色域...",
-      "comment": "企业级解决方案，听着高大上，适不适合您的需求另说。",
+      "comment": "API上线了，功能强大但按量付费，小团队用前要算好账。",
       "url": "http://arxiv.org/abs/2610.37668v1",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
     },
     {
       "category": "AI论文",
@@ -37,9 +37,9 @@
       "title_cn": "ThinkWorld ：世界想象力强化动力学推理链",
       "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning fro...",
       "summary_cn": "视觉-语言-动作（ VLA ）模型在机器人操纵方面取得了实质性进展，但其泛化仍然受到动作标签机器人演示的多样性和覆盖范围的限制。人类视频提供了更广泛的行为和环境体验，同时...",
-      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
       "url": "http://arxiv.org/abs/2610.37666v1",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
     },
     {
       "category": "AI论文",
@@ -49,7 +49,7 @@
       "summary_cn": "关系是通过他们共享的实体构成的--爱丽丝是鲍勃的母亲，鲍勃是卡罗尔的父亲，所以爱丽丝是卡罗尔的祖母--秩序很重要，因为父亲的母亲不是母亲的父亲；验证稳定的关系意味着关闭循环。我们表明，如果每个实体的坐标...",
       "comment": "AI领域新动态，保持关注，别被营销号带节奏。",
       "url": "http://arxiv.org/abs/2610.37656v1",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
     },
     {
       "category": "新产品",
@@ -57,9 +57,9 @@
       "title_cn": "Claude 3.5十四行诗- Anthropic的最新型号",
       "summary": "Anthropic releases Claude 3.5 Sonnet with improved reasoning and coding capabilities.",
       "summary_cn": "Anthropic发布了具有改进的推理和编码功能的Claude 3.5 Sonnet。",
-      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
       "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
     },
     {
       "category": "新产品",
@@ -69,7 +69,7 @@
       "summary_cn": "OpenAI推出GPT-4o Mini ，以更低的成本提供高性能。",
       "comment": "新模型发布，效果先观望，价格先准备好——按token计费的玩法，用得起吗？",
       "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
     },
     {
       "category": "新产品",
@@ -77,9 +77,9 @@
       "title_cn": "Gemini 1.5 Flash -谷歌的快速模型",
       "summary": "Google releases Gemini 1.5 Flash for faster inference and lower cost.",
       "summary_cn": "谷歌发布了Gemini 1.5 Flash ，以实现更快的推理和更低的成本。",
-      "comment": "商业模型再升级，功能看着牛，钱包要捂紧，按量付费伤不起。",
+      "comment": "新模型发布，效果先观望，价格先准备好——按token计费的玩法，用得起吗？",
       "url": "https://deepmind.google/technologies/gemini/flash/",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
     },
     {
       "category": "行业热点",
@@ -87,9 +87,9 @@
       "title_cn": "人工智能法规更新-欧盟人工智能法案实施",
       "summary": "European Union implements AI Act, setting global standard for AI regulation.",
       "summary_cn": "欧盟实施《人工智能法案》，为人工智能监管设定全球标准。",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "comment": "新趋势值得注意，但别盲目跟风，适合自己的才是最好的。",
       "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
     },
     {
       "category": "行业热点",
@@ -97,9 +97,9 @@
       "title_cn": "人工智能芯片市场竞争加剧",
       "summary": "NVIDIA, AMD, and Intel compete fiercely in AI chip market with new product launches.",
       "summary_cn": "英伟达、AMD和英特尔推出新产品，在人工智能芯片市场展开激烈竞争。",
-      "comment": "AI领域新动态，保持关注，别被营销号带节奏。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
       "url": "https://example.com/ai-chip-market-2026",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
     }
   ]
 }
