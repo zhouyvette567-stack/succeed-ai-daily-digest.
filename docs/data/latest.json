@@ -1,55 +1,35 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "items": [
     {
-      "category": "技术动态",
-      "title": "prompts.chat",
-      "title_cn": "提示.聊天",
-      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary_cn": "f.k.a. Awesome ChatGPT提示。分享、发现和收集社区提示。免费开源--为您的组织提供完全隐私的自助出租服务。",
-      "comment": "开源大模型又添新成员，prompts.chat这次能否撼动闭源模型的地位？",
-      "url": "https://github.com/f/prompts.chat",
-      "date": "2026-11-01"
-    },
-    {
-      "category": "技术动态",
-      "title": "LLMs-from-scratch",
-      "title_cn": "LLM从头开始",
-      "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "summary_cn": "在PyTorch中从头开始逐步实现类似ChatGPT的LLM",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "date": "2026-11-01"
-    },
-    {
       "category": "AI论文",
-      "title": "Rethinking Neural Thickets Without Weight Perturbations",
-      "title_cn": "重新思考无权重干扰的神经厚度",
-      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a sing...",
-      "summary_cn": "神经厚度假设假设预训练语言模型位于权重空间中特定任务专家的密集邻域，随机高斯扰动可以揭示这些邻域。我们重现了报告的增益，但表明它们不需要这种几何解释。扰乱歌声...",
+      "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+      "title_cn": "潜在稀疏注意力：向次二次超长语境注意力迈进",
+      "summary": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention is prohibitively expensive. A promising approach is sparse attention, in which ...",
+      "summary_cn": "代理工作流程越来越多地转向长期任务，例如开放式科学工作，其中模型受益于长时间的上下文窗口。然而，在超长背景下（超过100万个代币） ，全神贯注的成本过于昂贵。一种有前途的方法是稀疏注意力，其中...",
       "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
-      "url": "http://arxiv.org/abs/2610.40649v1",
-      "date": "2026-11-01"
+      "url": "http://arxiv.org/abs/2610.42147v1",
+      "date": "2026-11-02"
     },
     {
       "category": "AI论文",
-      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-      "title_cn": "读取、分配、路由：像素空间生成变压器的角色耦合令牌化",
-      "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from gl...",
-      "summary_cn": "像素空间生成变形金刚通常每个图像补丁使用一个令牌，因此捕获更精细的细节需要更多令牌，并使全球关注变得越来越昂贵。我们观察到，更精细的细节不一定需要更多的全球沟通：低频结构受益于gl...",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "http://arxiv.org/abs/2610.40647v1",
-      "date": "2026-11-01"
+      "title": "Hierarchical World Models with Implicit Dynamics",
+      "title_cn": "具有隐式动态的层次世界模型",
+      "summary": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search complexity. Existing hierarchical methods often use rigid macro-actions or latent ski...",
+      "summary_cn": "使用世界模型进行规划可以实现具体代理的测试时间适应，提供比直接策略学习更优越的泛化。然而，长期任务仍然受到累积错误和搜索复杂性的阻碍。现有的分层方法通常使用刚性宏观动作或潜伏滑雪...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2610.42146v1",
+      "date": "2026-11-02"
     },
     {
       "category": "AI论文",
-      "title": "Luggage re-identification: A study of strategies towards a real-world application",
-      "title_cn": "行李重新识别：对现实世界应用策略的研究",
-      "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint ...",
-      "summary_cn": "行李重新识别（ ReID ）是视频监控中的一项关键任务，适用于取证、安全或边境管理（可疑或遗弃行李识别）以及行李管理（丢失行李追回）。它可以跨越不相交的关联相同行李的观察...",
-      "comment": "研究成果发布，理论很美好，落地才知道真假，保持审慎乐观。",
-      "url": "http://arxiv.org/abs/2610.40643v1",
-      "date": "2026-11-01"
+      "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+      "title_cn": "RoboArchitect ：通过持久记忆实现机器人智能体的自动化设计",
+      "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses are built by hand and redesigned for each new robot or benchmark. We show that h...",
+      "summary_cn": "最近的工作表明，冷冻机器人策略在代理线束中的性能要好得多，其中控制代码决定何时查询策略、查阅视觉工具或直接命令ARM。然而今天，这些线束是手工制造的，并为每个新机器人或基准重新设计。我们证明了h...",
+      "comment": "跑分赢了，实际用起来如何？用户体感比数字更重要。",
+      "url": "http://arxiv.org/abs/2610.42141v1",
+      "date": "2026-11-02"
     },
     {
       "category": "新产品",
@@ -57,9 +37,9 @@
       "title_cn": "Claude 3.5十四行诗- Anthropic的最新型号",
       "summary": "Anthropic releases Claude 3.5 Sonnet with improved reasoning and coding capabilities.",
       "summary_cn": "Anthropic发布了具有改进的推理和编码功能的Claude 3.5 Sonnet。",
-      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
       "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
-      "date": "2026-11-01"
+      "date": "2026-11-02"
     },
     {
       "category": "新产品",
@@ -67,9 +47,9 @@
       "title_cn": "GPT-4o Mini - OpenAI的成本效益模型",
       "summary": "OpenAI launches GPT-4o Mini, offering high performance at lower cost.",
       "summary_cn": "OpenAI推出GPT-4o Mini ，以更低的成本提供高性能。",
-      "comment": "又是一个'史上最强'，基准测试刷得飞起，实际应用场景待检验。",
+      "comment": "商业模型再升级，功能看着牛，钱包要捂紧，按量付费伤不起。",
       "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
-      "date": "2026-11-01"
+      "date": "2026-11-02"
     },
     {
       "category": "新产品",
@@ -79,7 +59,7 @@
       "summary_cn": "谷歌发布了Gemini 1.5 Flash ，以实现更快的推理和更低的成本。",
       "comment": "新模型发布，效果先观望，价格先准备好——按token计费的玩法，用得起吗？",
       "url": "https://deepmind.google/technologies/gemini/flash/",
-      "date": "2026-11-01"
+      "date": "2026-11-02"
     },
     {
       "category": "行业热点",
@@ -87,9 +67,9 @@
       "title_cn": "人工智能法规更新-欧盟人工智能法案实施",
       "summary": "European Union implements AI Act, setting global standard for AI regulation.",
       "summary_cn": "欧盟实施《人工智能法案》，为人工智能监管设定全球标准。",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "comment": "新趋势值得注意，但别盲目跟风，适合自己的才是最好的。",
       "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "date": "2026-11-01"
+      "date": "2026-11-02"
     },
     {
       "category": "行业热点",
@@ -97,9 +77,9 @@
       "title_cn": "人工智能芯片市场竞争加剧",
       "summary": "NVIDIA, AMD, and Intel compete fiercely in AI chip market with new product launches.",
       "summary_cn": "英伟达、AMD和英特尔推出新产品，在人工智能芯片市场展开激烈竞争。",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "comment": "新趋势值得注意，但别盲目跟风，适合自己的才是最好的。",
       "url": "https://example.com/ai-chip-market-2026",
-      "date": "2026-11-01"
+      "date": "2026-11-02"
     }
   ]
 }
