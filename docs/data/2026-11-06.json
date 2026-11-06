@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-06",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "prompts.chat",
+      "title_cn": "提示.聊天",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary_cn": "f.k.a. Awesome ChatGPT提示。分享、发现和收集社区提示。免费开源--为您的组织提供完全隐私的自助出租服务。",
+      "comment": "开源阵营再下一城，但光看参数没用，能不能跑起来、好不好用才是关键。",
+      "url": "https://github.com/f/prompts.chat",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "技术动态",
+      "title": "LLMs-from-scratch",
+      "title_cn": "LLM从头开始",
+      "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "summary_cn": "在PyTorch中从头开始逐步实现类似ChatGPT的LLM",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "AI论文",
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "title_cn": "SwarmEvolve ：用于进化发现和优化的潜在代理群",
+      "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must rep...",
+      "summary_cn": "LLM引导的进化搜索使用AI代理通过迭代细化解决方案并结合高分方法来改进数学和计算问题的程序。然而，这个过程往往是缓慢的，因为LLM为每轮产生了很长的文本思维链，并且必须代表...",
+      "comment": "基准测试成绩亮眼，但测试集和实际场景是两码事，别被数字忽悠。",
+      "url": "http://arxiv.org/abs/2611.08483v1",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "AI论文",
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "title_cn": "科学家世界：为人工智能科学家创造一个研究世界",
+      "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every resea...",
+      "summary_cn": "人工智能科学家到来，但一个让他们成长的世界却没有到来。人类科学家理所当然地认为他们有$ - $个世纪的开放问题和共同的想法，在科学文献中等待。对于人工智能科学家来说，这个世界是可读的，但不是可运行的，所以我们为他们建立了科学家世界：每一个海域...",
+      "comment": "研究值得关注，但离实际应用还有距离，别过度解读。",
+      "url": "http://arxiv.org/abs/2611.08478v1",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "AI论文",
+      "title": "XStack: A Benchmark for ML Repo Migration",
+      "title_cn": "XStack ： ML回购迁移的基准",
+      "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1...",
+      "summary_cn": "机器学习代码应该在研究人员选择的地方运行，而不是在最初编写的地方运行。如今，机器学习代码主要存在于两个生态系统中： NVIDIA GPU上的PyTorch和Google TPU上的JAX。在它们之间迁移存储库意味着跨框架和硬件构建和测试。此迁移是(1...",
+      "comment": "研究成果发布，理论很美好，落地才知道真假，保持审慎乐观。",
+      "url": "http://arxiv.org/abs/2611.08472v1",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "新产品",
+      "title": "Claude 3.5 Sonnet - Anthropic's Latest Model",
+      "title_cn": "Claude 3.5十四行诗- Anthropic的最新型号",
+      "summary": "Anthropic releases Claude 3.5 Sonnet with improved reasoning and coding capabilities.",
+      "summary_cn": "Anthropic发布了具有改进的推理和编码功能的Claude 3.5 Sonnet。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "新产品",
+      "title": "GPT-4o Mini - OpenAI's Cost-Effective Model",
+      "title_cn": "GPT-4o Mini - OpenAI的成本效益模型",
+      "summary": "OpenAI launches GPT-4o Mini, offering high performance at lower cost.",
+      "summary_cn": "OpenAI推出GPT-4o Mini ，以更低的成本提供高性能。",
+      "comment": "商业模型再升级，功能看着牛，钱包要捂紧，按量付费伤不起。",
+      "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "新产品",
+      "title": "Gemini 1.5 Flash - Google's Fast Model",
+      "title_cn": "Gemini 1.5 Flash -谷歌的快速模型",
+      "summary": "Google releases Gemini 1.5 Flash for faster inference and lower cost.",
+      "summary_cn": "谷歌发布了Gemini 1.5 Flash ，以实现更快的推理和更低的成本。",
+      "comment": "新模型发布，效果先观望，价格先准备好——按token计费的玩法，用得起吗？",
+      "url": "https://deepmind.google/technologies/gemini/flash/",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI Regulation Updates - EU AI Act Implementation",
+      "title_cn": "人工智能法规更新-欧盟人工智能法案实施",
+      "summary": "European Union implements AI Act, setting global standard for AI regulation.",
+      "summary_cn": "欧盟实施《人工智能法案》，为人工智能监管设定全球标准。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI Chip Market Competition Intensifies",
+      "title_cn": "人工智能芯片市场竞争加剧",
+      "summary": "NVIDIA, AMD, and Intel compete fiercely in AI chip market with new product launches.",
+      "summary_cn": "英伟达、AMD和英特尔推出新产品，在人工智能芯片市场展开激烈竞争。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://example.com/ai-chip-market-2026",
+      "date": "2026-11-06"
+    }
+  ]
+}
