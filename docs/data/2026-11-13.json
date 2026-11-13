@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-13",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "prompts.chat",
+      "title_cn": "提示.聊天",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary_cn": "原名“Awesome ChatGPT Prompts”。分享、发现和收集来自社区的提示。免费且开源——为您的组织自托管，享有完全的隐私。",
+      "comment": "Meta/Llama系又放大招，社区狂欢，不过实际部署成本您考虑过吗？",
+      "url": "https://github.com/f/prompts.chat",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "技术动态",
+      "title": "LLMs-from-scratch",
+      "title_cn": "从零开始的 LLM",
+      "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "summary_cn": "在 PyTorch 中从零开始逐步实现一个类似 ChatGPT 的 LLM",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "AI论文",
+      "title": "When Expert Disagreement Hurts: Prestige and Selectivity in LLM Decision Revision",
+      "title_cn": "专家意见分歧的负面影响：大语言模型决策修订中的声望与选择性",
+      "summary": "When language models revise a decision after another agent disagrees, neither reversal counts nor final accuracy shows whether they are fixing mistakes or abandoning correct answers. We introduce a controlled two-pass audit that holds the question, the evidence, and the model's initial answer fixed ...",
+      "summary_cn": "当语言模型在另一名代理人提出异议后修改决定时，无论是推翻次数还是最终准确性都无法表明它们是在纠正错误还是放弃正确答案。我们引入了一种受控的双轮审核，其中问题、证据和模型的初始答案保持不变。...",
+      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2611.16694v1",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "AI论文",
+      "title": "MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection",
+      "title_cn": "MobileProbe：通过轨迹感知注入对移动代理进行自适应安全评估",
+      "summary": "Mobile GUI agents read the screen of a phone and operate apps on a user's behalf to complete multi-step tasks such as online shopping or messaging. Because the agent acts on whatever the screen shows, an attacker can embed malicious instructions into ordinary UI content and redirect its actions. We ...",
+      "summary_cn": "移动 GUI 代理读取手机屏幕，并代表用户操作应用程序，以完成多步任务，例如在线购物或发消息。由于代理根据屏幕上显示的内容采取行动，攻击者可以将恶意指令嵌入到普通的UI内容中，并重定向其行动。我们...",
+      "comment": "新趋势值得注意，但别盲目跟风，适合自己的才是最好的。",
+      "url": "http://arxiv.org/abs/2611.16693v1",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "AI论文",
+      "title": "Edge-Gradient Augmentation under Reinforcement Learning for Temporal Graph",
+      "title_cn": "基于强化学习的Temporal Graph边梯度增强",
+      "summary": "Temporal link prediction is critical for understand- ing dynamic interactions in evolving networks, informing appli- cations ranging from social network analysis to recommendation systems. Existing methods typically rely on raw temporal graph data, often neglecting explicit edge-change information t...",
+      "summary_cn": "时间链路预测对于理解不断演变的网络中的动态交互至关重要，可为从社交网络分析到推荐系统等各种应用提供信息。现有方法通常依赖于原始时序图数据，往往忽视显式的边变化信息t...",
+      "comment": "AI领域新动态，保持关注，别被营销号带节奏。",
+      "url": "http://arxiv.org/abs/2611.16678v1",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "新产品",
+      "title": "Claude 3.5 Sonnet - Anthropic's Latest Model",
+      "title_cn": "Claude 3.5 Sonnet - Anthropic 的最新模型",
+      "summary": "Anthropic releases Claude 3.5 Sonnet with improved reasoning and coding capabilities.",
+      "summary_cn": "Anthropic 发布了 Claude 3.5 Sonnet，其推理和编码能力得到提升。",
+      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
+      "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "新产品",
+      "title": "GPT-4o Mini - OpenAI's Cost-Effective Model",
+      "title_cn": "GPT-4o Mini - OpenAI 的高性价比模型",
+      "summary": "OpenAI launches GPT-4o Mini, offering high performance at lower cost.",
+      "summary_cn": "OpenAI推出GPT-4o Mini，以更低的成本提供高性能。",
+      "comment": "又是一个'史上最强'，基准测试刷得飞起，实际应用场景待检验。",
+      "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "新产品",
+      "title": "Gemini 1.5 Flash - Google's Fast Model",
+      "title_cn": "Gemini 1.5 Flash - Google 的快速模型",
+      "summary": "Google releases Gemini 1.5 Flash for faster inference and lower cost.",
+      "summary_cn": "Google 发布 Gemini 1.5 Flash，实现更快的推理速度和更低的成本。",
+      "comment": "新模型发布，效果先观望，价格先准备好——按token计费的玩法，用得起吗？",
+      "url": "https://deepmind.google/technologies/gemini/flash/",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI Regulation Updates - EU AI Act Implementation",
+      "title_cn": "人工智能监管最新动态 - 《欧盟人工智能法案》实施",
+      "summary": "European Union implements AI Act, setting global standard for AI regulation.",
+      "summary_cn": "欧盟实施《人工智能法案》，为人工智能监管设定全球标准。",
+      "comment": "AI领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI Chip Market Competition Intensifies",
+      "title_cn": "人工智能芯片市场竞争加剧",
+      "summary": "NVIDIA, AMD, and Intel compete fiercely in AI chip market with new product launches.",
+      "summary_cn": "英伟达、AMD和英特尔通过推出新产品，在人工智能芯片市场展开激烈竞争。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://example.com/ai-chip-market-2026",
+      "date": "2026-11-13"
+    }
+  ]
+}
