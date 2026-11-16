@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-16",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "prompts.chat",
+      "title_cn": "提示.聊天",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary_cn": "原名：Awesome ChatGPT Prompts。分享、发现和收集来自社区的提示。免费且开源——为您的组织自托管，享有完全的隐私。",
+      "comment": "开源阵营再下一城，但光看参数没用，能不能跑起来、好不好用才是关键。",
+      "url": "https://github.com/f/prompts.chat",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "技术动态",
+      "title": "LLMs-from-scratch",
+      "title_cn": "从零开始的LLM",
+      "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "summary_cn": "从零开始，在PyTorch中逐步实现一个类似ChatGPT的大语言模型（LLM）",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "AI论文",
+      "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+      "title_cn": "WeightBench：将语言模型评估为权重空间编程器",
+      "summary": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability has been termed Weight...",
+      "summary_cn": "最近的研究表明，大型语言模型（LLM）可以直接对其他神经网络的参数进行操作。它们可以读取网络经过训练要执行的任务，修复出现故障的网络，并从头开始编写正常工作的网络，所有这些都不需要梯度下降。这种能力被称为权重...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2611.18553v1",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "AI论文",
+      "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
+      "title_cn": "模仿式自举多智能体强化学习",
+      "summary": "Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and often impossible for a single person to teleoperate multiple agents simultaneously. Round-Robin Behav...",
+      "summary_cn": "示范是一种加速单智能体强化学习 (RL) 的有效方法，但将这一思想扩展到多智能体强化学习 (MARL) 并非易事，因为单个人同时遥控多个智能体既困难又往往不可能。循环行为...",
+      "comment": "开源是好事，能不能用起来、改起来，才是衡量价值的标准。",
+      "url": "http://arxiv.org/abs/2611.18543v1",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "AI论文",
+      "title": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
+      "title_cn": "椭圆采样：高斯分布及其他分布的最佳插值方案",
+      "summary": "Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging the initial and target distributions, and an efficient discretization of the resulting probability-flow ODE. In this work, we introduce a new framework for joint schedule/discre...",
+      "summary_cn": "基于随机插值的生成建模需要指定两个关键选择：一个连接初始分布和目标分布的插值调度，以及对由此产生的概率流ODE进行高效的离散化。在本文中，我们介绍了一种用于联合调度/离散的新框架。...",
+      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2611.18542v1",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "新产品",
+      "title": "Claude 3.5 Sonnet - Anthropic's Latest Model",
+      "title_cn": "Claude 3.5 Sonnet - Anthropic 的最新模型",
+      "summary": "Anthropic releases Claude 3.5 Sonnet with improved reasoning and coding capabilities.",
+      "summary_cn": "Anthropic 发布了 Claude 3.5 Sonnet，其推理和编码能力得到提升。",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "新产品",
+      "title": "GPT-4o Mini - OpenAI's Cost-Effective Model",
+      "title_cn": "GPT-4o Mini - OpenAI 的高性价比模型",
+      "summary": "OpenAI launches GPT-4o Mini, offering high performance at lower cost.",
+      "summary_cn": "OpenAI 推出了 GPT-4o Mini，以更低的成本提供高性能。",
+      "comment": "又是一个'史上最强'，基准测试刷得飞起，实际应用场景待检验。",
+      "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "新产品",
+      "title": "Gemini 1.5 Flash - Google's Fast Model",
+      "title_cn": "Gemini 1.5 Flash - Google 的快速模型",
+      "summary": "Google releases Gemini 1.5 Flash for faster inference and lower cost.",
+      "summary_cn": "Google 发布 Gemini 1.5 Flash，以实现更快的推理和更低的成本。",
+      "comment": "新模型发布，效果先观望，价格先准备好——按token计费的玩法，用得起吗？",
+      "url": "https://deepmind.google/technologies/gemini/flash/",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI Regulation Updates - EU AI Act Implementation",
+      "title_cn": "人工智能监管最新动态 - 《欧盟人工智能法案》实施",
+      "summary": "European Union implements AI Act, setting global standard for AI regulation.",
+      "summary_cn": "欧盟实施《人工智能法案》，为人工智能监管设定全球标准。",
+      "comment": "新趋势值得注意，但别盲目跟风，适合自己的才是最好的。",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI Chip Market Competition Intensifies",
+      "title_cn": "人工智能芯片市场竞争加剧",
+      "summary": "NVIDIA, AMD, and Intel compete fiercely in AI chip market with new product launches.",
+      "summary_cn": "英伟达、AMD和英特尔通过推出新产品，在人工智能芯片市场展开激烈竞争。",
+      "comment": "AI领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://example.com/ai-chip-market-2026",
+      "date": "2026-11-16"
+    }
+  ]
+}
