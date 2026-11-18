@@ -1,25 +1,55 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "items": [
     {
       "category": "技术动态",
       "title": "prompts.chat",
       "title_cn": "提示.聊天",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary_cn": "原名：Awesome ChatGPT Prompts。分享、发现和收集来自社区的提示。免费且开源——为您的组织自托管，并享有完全的隐私。",
-      "comment": "开源阵营再下一城，但光看参数没用，能不能跑起来、好不好用才是关键。",
+      "summary_cn": "原名：Awesome ChatGPT Prompts。分享、发现和收集来自社区的提示。免费且开源——为您的组织提供自托管服务，并确保完全的隐私。",
+      "comment": "Meta/Llama系又放大招，社区狂欢，不过实际部署成本您考虑过吗？",
       "url": "https://github.com/f/prompts.chat",
-      "date": "2026-11-17"
+      "date": "2026-11-18"
     },
     {
       "category": "技术动态",
       "title": "LLMs-from-scratch",
       "title_cn": "从零开始的LLM",
       "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "summary_cn": "从零开始，在 PyTorch 中逐步实现一个类似 ChatGPT 的 LLM",
-      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "summary_cn": "从零开始，在PyTorch中逐步实现一个类似ChatGPT的大语言模型（LLM）",
+      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "date": "2026-11-17"
+      "date": "2026-11-18"
+    },
+    {
+      "category": "AI论文",
+      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "title_cn": "环境大语言模型 (LLM)：通过温度匹配实现数据高效的监督微调",
+      "summary": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrop...",
+      "summary_cn": "为自回归语言模型收集大规模、多样化和高质量的后训练数据集具有挑战性。因此，监督式微调（SFT）通常应用于比预训练所用数据集小得多的数据集，这会导致过拟合和灾难性遗忘。...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2611.23229v1",
+      "date": "2026-11-18"
+    },
+    {
+      "category": "AI论文",
+      "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+      "title_cn": "StringQFT：用于人工智能辅助理论物理学的多用途教材资源",
+      "summary": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering brane probes, brane webs, geometric engineering, F-theory construction...",
+      "summary_cn": "我们推出StringQFT，作为量子场论弦结构的教科书集，以及人工智能辅助理论物理的基础设施。该丛书包括18卷、190章和3795页，内容涵盖膜探测、膜网、几何工程、F理论构造...",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "http://arxiv.org/abs/2611.23225v1",
+      "date": "2026-11-18"
+    },
+    {
+      "category": "AI论文",
+      "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+      "title_cn": "是否仍需要告诉 LLM 代理如何自我改进？",
+      "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a basic question: do these increasingly capable models still need us to specify how they should self-im...",
+      "summary_cn": "LLM 代理越来越多地推动自身的学习。自我改进方法将模型优化的各种组成部分委派给模型本身。随着模型能力不断增强，这引发了一个基本问题：这些能力日益增强的模型是否还需要我们来指定它们应该如何自我改进？...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2611.23219v1",
+      "date": "2026-11-18"
     },
     {
       "category": "新产品",
@@ -27,9 +57,9 @@
       "title_cn": "Claude 3.5 Sonnet - Anthropic 的最新模型",
       "summary": "Anthropic releases Claude 3.5 Sonnet with improved reasoning and coding capabilities.",
       "summary_cn": "Anthropic 发布了 Claude 3.5 Sonnet，其推理和编码能力得到提升。",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
       "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
-      "date": "2026-11-17"
+      "date": "2026-11-18"
     },
     {
       "category": "新产品",
@@ -37,9 +67,9 @@
       "title_cn": "GPT-4o Mini - OpenAI 的高性价比模型",
       "summary": "OpenAI launches GPT-4o Mini, offering high performance at lower cost.",
       "summary_cn": "OpenAI推出GPT-4o Mini，以更低的成本提供高性能。",
-      "comment": "新模型发布，效果先观望，价格先准备好——按token计费的玩法，用得起吗？",
+      "comment": "又是一个'史上最强'，基准测试刷得飞起，实际应用场景待检验。",
       "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
-      "date": "2026-11-17"
+      "date": "2026-11-18"
     },
     {
       "category": "新产品",
@@ -47,9 +77,9 @@
       "title_cn": "Gemini 1.5 Flash - Google 的快速模型",
       "summary": "Google releases Gemini 1.5 Flash for faster inference and lower cost.",
       "summary_cn": "Google 发布 Gemini 1.5 Flash，以实现更快的推理和更低的成本。",
-      "comment": "新模型发布，效果先观望，价格先准备好——按token计费的玩法，用得起吗？",
+      "comment": "又是一个'史上最强'，基准测试刷得飞起，实际应用场景待检验。",
       "url": "https://deepmind.google/technologies/gemini/flash/",
-      "date": "2026-11-17"
+      "date": "2026-11-18"
     },
     {
       "category": "行业热点",
@@ -57,9 +87,9 @@
       "title_cn": "人工智能监管最新动态 - 《欧盟人工智能法案》实施",
       "summary": "European Union implements AI Act, setting global standard for AI regulation.",
       "summary_cn": "欧盟实施《人工智能法案》，为人工智能监管设定全球标准。",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "comment": "新趋势值得注意，但别盲目跟风，适合自己的才是最好的。",
       "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "date": "2026-11-17"
+      "date": "2026-11-18"
     },
     {
       "category": "行业热点",
@@ -67,9 +97,9 @@
       "title_cn": "人工智能芯片市场竞争加剧",
       "summary": "NVIDIA, AMD, and Intel compete fiercely in AI chip market with new product launches.",
       "summary_cn": "英伟达、AMD和英特尔通过推出新产品，在人工智能芯片市场展开激烈竞争。",
-      "comment": "新趋势值得注意，但别盲目跟风，适合自己的才是最好的。",
+      "comment": "AI领域新动态，保持关注，别被营销号带节奏。",
       "url": "https://example.com/ai-chip-market-2026",
-      "date": "2026-11-17"
+      "date": "2026-11-18"
     }
   ]
 }
