@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-24",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "prompts.chat",
+      "title_cn": "提示.聊天",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary_cn": "原名：Awesome ChatGPT Prompts。分享、发现和收集来自社区的提示。免费且开源——为您的组织自托管，享有完全的隐私。",
+      "comment": "开源大模型又添新成员，prompts.chat这次能否撼动闭源模型的地位？",
+      "url": "https://github.com/f/prompts.chat",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "技术动态",
+      "title": "LLMs-from-scratch",
+      "title_cn": "从零开始的LLM",
+      "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "summary_cn": "从零开始，在 PyTorch 中逐步实现一个类似 ChatGPT 的 LLM",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "AI论文",
+      "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
+      "title_cn": "语言模型受注入的不确定性标记的引导，但无法进行现场自我监测",
+      "summary": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does confidence drop when an ...",
+      "summary_cn": "提示语言模型在生成过程中逐级表达数值置信度，是触发代理推理中的回溯和纠错的一种日益流行的方法。该策略的前提是具备两种能力：(1) 原地监控保真度（当……时，置信度是否会下降）...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2611.31228v1",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "AI论文",
+      "title": "CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans",
+      "title_cn": "CTLink：一种文本提示分割模型，用于将放射影像报告结果与胸部3D CT扫描关联起来",
+      "summary": "Radiology reports describe findings in text only, without visually marking them on the scan, so readers cannot directly see which abnormality each reported finding refers to. We introduce CTLink, a text-prompted 3D segmentation model that segments findings described in a chest CT report. CTLink was ...",
+      "summary_cn": "影像学报告仅以文字形式描述所见影像，未在扫描影像上进行可视化标记，因此读者无法直接看出每项所见影像所指的异常情况。我们推出了CTLink，这是一种基于文本提示的3D分割模型，可对胸部CT报告中描述的影像学表现进行分割。CTLink是...",
+      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2611.31222v1",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "AI论文",
+      "title": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
+      "title_cn": "在空间中寻找：对视觉-语言模型进行有目的的主动探索，以实现空间推理的基准测试",
+      "summary": "Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question requires. However, can vision-language models (VLMs), which reason increasingly well over curated images and videos, also seek in space when the evidence is not handed to th...",
+      "summary_cn": "人类在探索陌生空间时是有目的的，他们会决定在哪里观察，直到收集到解决空间问题所需的证据。然而，视觉-语言模型（VLM）在经过精心挑选的图像和视频上推理能力越来越强，但当证据没有直接提供给它们时，它们是否也能在空间中进行搜索呢？...",
+      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2611.31215v1",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "新产品",
+      "title": "Claude 3.5 Sonnet - Anthropic's Latest Model",
+      "title_cn": "Claude 3.5 Sonnet - Anthropic 的最新模型",
+      "summary": "Anthropic releases Claude 3.5 Sonnet with improved reasoning and coding capabilities.",
+      "summary_cn": "Anthropic 发布了 Claude 3.5 Sonnet，其推理和编码能力得到提升。",
+      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
+      "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "新产品",
+      "title": "GPT-4o Mini - OpenAI's Cost-Effective Model",
+      "title_cn": "GPT-4o Mini - OpenAI 的高性价比模型",
+      "summary": "OpenAI launches GPT-4o Mini, offering high performance at lower cost.",
+      "summary_cn": "OpenAI推出GPT-4o Mini，以更低的成本提供高性能。",
+      "comment": "商业模型再升级，功能看着牛，钱包要捂紧，按量付费伤不起。",
+      "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "新产品",
+      "title": "Gemini 1.5 Flash - Google's Fast Model",
+      "title_cn": "Gemini 1.5 Flash - Google 的快速模型",
+      "summary": "Google releases Gemini 1.5 Flash for faster inference and lower cost.",
+      "summary_cn": "Google 发布 Gemini 1.5 Flash，以实现更快的推理和更低的成本。",
+      "comment": "又是一个'史上最强'，基准测试刷得飞起，实际应用场景待检验。",
+      "url": "https://deepmind.google/technologies/gemini/flash/",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI Regulation Updates - EU AI Act Implementation",
+      "title_cn": "人工智能监管最新动态 - 《欧盟人工智能法案》实施",
+      "summary": "European Union implements AI Act, setting global standard for AI regulation.",
+      "summary_cn": "欧盟实施《人工智能法案》，为人工智能监管设定全球标准。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI Chip Market Competition Intensifies",
+      "title_cn": "人工智能芯片市场竞争加剧",
+      "summary": "NVIDIA, AMD, and Intel compete fiercely in AI chip market with new product launches.",
+      "summary_cn": "英伟达、AMD和英特尔通过推出新产品，在人工智能芯片市场展开激烈竞争。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://example.com/ai-chip-market-2026",
+      "date": "2026-11-24"
+    }
+  ]
+}
